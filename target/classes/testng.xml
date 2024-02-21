@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name= "Jaguar Landrover Automation test Suite ">
+
+  <test name="JLR testcases ">
+
+    <classes>
+      <class name="com.jlr.qa.testcases.LoginPageTest"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
